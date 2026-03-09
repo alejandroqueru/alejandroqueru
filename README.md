@@ -26,7 +26,7 @@ I'm a software developer with an entrepreneurial mindset and a passion for build
 
 <div align="left">
   
-## 🛠 Frontend
+## 🖼️ Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,redux)](https://skillicons.dev)
 <img height=40 src="https://cdn.simpleicons.org/expo/fff"/>
@@ -37,7 +37,7 @@ I'm a software developer with an entrepreneurial mindset and a passion for build
 
 <div align="left">
   
-## 🛠 Backend
+## 🧪 Backend
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,sequelize,fastapi,express)](https://skillicons.dev)
 
@@ -45,7 +45,7 @@ I'm a software developer with an entrepreneurial mindset and a passion for build
 
 <div align="left">
   
-## 🛠 Data Bases
+## 🗄️ Data Bases
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mongo)](https://skillicons.dev)
 
@@ -53,7 +53,7 @@ I'm a software developer with an entrepreneurial mindset and a passion for build
 
 <div align="left">
   
-## 🛠 Tools
+## ⚙️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,gitlab,github)](https://skillicons.dev)
           
